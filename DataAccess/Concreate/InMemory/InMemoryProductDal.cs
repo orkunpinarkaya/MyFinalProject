@@ -29,6 +29,7 @@ namespace DataAccess.Concreate.InMemory
         {
             throw new NotImplementedException();
             //sadsadsa
+            //deneme
         }
 
         public void Delete(Product product)
