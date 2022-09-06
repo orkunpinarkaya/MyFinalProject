@@ -28,6 +28,7 @@ namespace DataAccess.Concreate.InMemory
         public void Add(Product product)
         {
             throw new NotImplementedException();
+            //sadsadsa
         }
 
         public void Delete(Product product)
